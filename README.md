@@ -1,14 +1,14 @@
 # Ekaterina
 
-<div style="display: flex; line-height: 10px;">
-<div style="width: 70%; box-sizing: border-box;">
+<div style="display: flex;">
+<div style="width: 60%; box-sizing: border-box; line-height: 15px;">
     <p>Возраст: 22 года</p>
     <p>Место жительства: г. Москва</p>
     <p>E-mail:________________</p>
     <p>Phone:_________________</p>
     <p>Образование: Финансовый университет</p>
 </div>
-<img style="width: 30%; box-sizing: border-box;" src="/Users/ekaterina.goryunova/Desktop/cv/photo_2024-10-31_22.00.23.jpeg">
+<img style="width: 40%; height: 40%; box-sizing: border-box;" src="/Users/ekaterina.goryunova/Desktop/cv/photo_2024-10-31_22.00.23.jpeg">
 </div>
 
 ## Дополнительное образование
