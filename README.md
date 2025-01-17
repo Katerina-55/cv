@@ -8,7 +8,7 @@
     <p>Phone:_________________</p>
     <p>Образование: Финансовый университет</p>
 </div>
-<img style="width: 40%; height: 40%; box-sizing: border-box;" src="photo_2024-10-31_22.00.23.jpeg">
+<img style="width: 20%; height: 20%; box-sizing: border-box;" src="photo_2024-10-31_22.00.23.jpeg">
 </div>
 
 ## Дополнительное образование
